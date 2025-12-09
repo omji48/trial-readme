@@ -176,23 +176,30 @@ AI experiment — planned rebuild with secure architecture.
 ---
 
 <!-- ======================================================= -->
-<!--                📈 GITHUB ANALYTICS                      -->
+<!--                📈 GITHUB ANALYTICS (STABLE)             -->
 <!-- ======================================================= -->
 
-<h2 align="center">📊 GitHub analytics</h2>
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=omji48&theme=tokyonight&hide_border=true" height="160" alt="GitHub Streak Stats" />
+<!-- High-reliability shields.io badges -->
+<img src="https://img.shields.io/github/followers/omji48?label=Followers&style=for-the-badge&color=22c55e&labelColor=0f172a" />
+<img src="https://img.shields.io/github/stars/omji48?affiliations=OWNER&style=for-the-badge&color=6366f1&labelColor=0f172a" />
+<img src="https://img.shields.io/github/repos/omji48?style=for-the-badge&color=3b82f6&labelColor=0f172a" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=omji48&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Readme Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omji48&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+<!-- Optional: single stats card -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=omji48&show_icons=true&theme=tokyonight&hide_border=true" 
+  alt="GitHub Stats for omji48" 
+/>
 
 </div>
 
 ---
+
 
 <!-- ======================================================= -->
 <!--                🎯 2025 CYBER GOALS                      -->
