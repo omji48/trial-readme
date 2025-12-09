@@ -82,7 +82,6 @@ System motto: "Exploit yourself before the world does."
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br><b>Python</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="60"/><br><b>Linux</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=burpsuite" width="60"/><br><b>Burp Suite</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=js" width="60"/><br><b>JavaScript</b></td>
 </tr>
 
@@ -119,46 +118,49 @@ A crisp snapshot of what I’m sharpening right now.
 
 ---
 <!-- ======================================================= -->
-<!--                🧩 FLOATING PROJECT CARDS                -->
+<!--                🚀 FEATURED PROJECTS                    -->
 <!-- ======================================================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
+<table align="center" width="100%">
 
-<table width="90%" style="border-spacing: 18px;">
 <tr>
+<td align="center" width="50%">
 
-<td align="center" style="padding:20px; background:#0f172a; border-radius:15px; border:1px solid #1e293b;">
-<h3>🛡️ Shieldify</h3>
+### 🛡️ Shieldify  
 Security landing page + personal attack playground.
+
 </td>
 
-<td align="center" style="padding:20px; background:#0f172a; border-radius:15px; border:1px solid #1e293b;">
-<h3>🌐 omji48.github.io</h3>
+<td align="center" width="50%">
+
+### 🌐 omji48.github.io  
 UI experiments + security header testing.
-</td>
 
+</td>
 </tr>
 
 <tr>
+<td align="center">
 
-<td align="center" style="padding:20px; background:#0f172a; border-radius:15px; border:1px solid #1e293b;">
-<h3>⚔️ breakmechallenge</h3>
+### ⚔️ breakmechallenge  
 Custom vulnerable-by-design apps for hacking practice.
+
 </td>
 
-<td align="center" style="padding:20px; background:#0f172a; border-radius:15px; border:1px solid #1e293b;">
-<h3>🤖 AI Air Pollution Conditioning</h3>
+<td align="center">
+
+### 🤖 AI Air Pollution Conditioning  
 AI experiment — planned rebuild with secure architecture.
-</td>
 
+</td>
 </tr>
+
 </table>
 
-</div>
-
 ---
+
 <!-- ======================================================= -->
 <!--                📈 GITHUB ANALYTICS SECTION               -->
 <!-- ======================================================= -->
