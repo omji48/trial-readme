@@ -62,21 +62,16 @@ I am <b>Om Mehta</b>, a cybersecurity student obsessed with the
 <div style="background-color:#000000; color:#00ff66; padding:20px; font-family:JetBrains Mono, Menlo, Consolas, monospace; border-radius:10px; line-height:1.6;">
 
 <pre style="margin:0;">
-<!-- ======================================================= -->
-<!--                🟩 HACKER MATRIX TERMINAL                -->
-<!-- ======================================================= -->
+## Initializing Om.Mehta...
 
-##Initializing Om.Mehta...
+## Loading modules: web_exploitation, red_teaming, recon, automation...
 
-##Loading modules: web_exploitation, red_teaming, recon, automation...
+## status: ACTIVE
+## privilege: USER → ROOT (pending)
+## skillset: evolving
+## mode: LEARN | BREAK | IMPROVE | REPEAT
 
-##status: ACTIVE
-##privilege: USER → ROOT (pending)
-##skillset: evolving
-##mode: LEARN | BREAK | IMPROVE | REPEAT
-
-##System motto: "Exploit yourself before the world does."
-
+## System motto: "Exploit yourself before the world does."
 </pre>
 
 </div>
@@ -93,20 +88,31 @@ I am <b>Om Mehta</b>, a cybersecurity student obsessed with the
 
 <br><br>
 
+<!-- Core stack grid -->
 <table>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="60" alt="Python"/><br><b>Python</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="60" alt="Linux"/><br><b>Linux</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=burpsuite" width="60" alt="Burp Suite"/><br><b>Burp Suite</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=js" width="60" alt="JavaScript"/><br><b>JavaScript</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="60" alt="React"/><br><b>React</b></td>
 </tr>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="60" alt="React"/><br><b>React</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="60" alt="Next.js"/><br><b>Next.js</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=git" width="60" alt="Git"/><br><b>Git</b></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="60" alt="VS Code"/><br><b>VS Code</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML"/><br><b>HTML/CSS</b></td>
 </tr>
 </table>
+
+<br>
+
+<!-- Security tooling badges (Burp Suite included) -->
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6B00?style=for-the-badge&logo=protonvpn&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-0052CC?style=for-the-badge&logo=circle&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/SQLMap-FFD700?style=for-the-badge&logo=databricks&logoColor=black" alt="SQLMap" />
+  <img src="https://img.shields.io/badge/CTF%20Tools-H4X0R-10b981?style=for-the-badge&labelColor=000000" alt="CTF Tools" />
+</p>
 
 </div>
 
@@ -142,14 +148,14 @@ A crisp snapshot of what I’m sharpening right now.
 <tr>
 <td align="center" width="50%">
 
-🛡️ Shieldify  
+🛡️ **Shieldify**  
 Security landing page + personal attack playground.
 
 </td>
 
 <td align="center" width="50%">
 
-🌐 omji48.github.io  
+🌐 **omji48.github.io**  
 UI experiments + security header testing.
 
 </td>
@@ -158,14 +164,14 @@ UI experiments + security header testing.
 <tr>
 <td align="center">
 
-⚔️ breakmechallenge  
+⚔️ **breakmechallenge**  
 Custom vulnerable-by-design apps for hacking practice.
 
 </td>
 
 <td align="center">
 
-🤖 AI Air Pollution Conditioning  
+🤖 **AI Air Pollution Conditioning**  
 AI experiment — planned rebuild with secure architecture.
 
 </td>
@@ -183,14 +189,12 @@ AI experiment — planned rebuild with secure architecture.
 
 <div align="center">
 
-<!-- High-reliability shields.io badges -->
 <img src="https://img.shields.io/github/followers/omji48?label=Followers&style=for-the-badge&color=22c55e&labelColor=0f172a" />
 <img src="https://img.shields.io/github/stars/omji48?affiliations=OWNER&style=for-the-badge&color=6366f1&labelColor=0f172a" />
 <img src="https://img.shields.io/github/repos/omji48?style=for-the-badge&color=3b82f6&labelColor=0f172a" />
 
 <br><br>
 
-<!-- Optional: single stats card -->
 <img 
   src="https://github-readme-stats.vercel.app/api?username=omji48&show_icons=true&theme=tokyonight&hide_border=true" 
   alt="GitHub Stats for omji48" 
@@ -199,7 +203,6 @@ AI experiment — planned rebuild with secure architecture.
 </div>
 
 ---
-
 
 <!-- ======================================================= -->
 <!--                🎯 2025 CYBER GOALS                      -->
@@ -213,7 +216,7 @@ AI experiment — planned rebuild with secure architecture.
 <tr>
 <td align="center" style="padding:25px; background:#0f172a; border-radius:18px; border:1px solid #1e293b; color:#e5e7eb;">
 
-🚀 Cybersecurity mission 2025
+🚀 <b>Cybersecurity mission 2025</b>
 
 - **Projects:** Build 3–5 security-focused projects end-to-end  
 - **Tooling:** Use Burp Suite as a daily driver  
@@ -221,3 +224,39 @@ AI experiment — planned rebuild with secure architecture.
 - **Docs:** Strengthen exploit → patch documentation  
 - **Toolkit:** Develop a personal red team toolkit  
 - **Mindset:** Move from student → practitioner
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ======================================================= -->
+<!--                    🔗 CONTACT SECTION                   -->
+<!-- ======================================================= -->
+
+<h2 align="center">📬 Contact me</h2>
+
+<div align="center">
+
+### 🔗 Important links  
+<a href="https://anom-shield.vercel.app"><b>Anom Shield – My startup</b></a>  
+<a href="https://www.credly.com/users/om-mehta.cf7af3f3"><b>Credly badges</b></a>  
+<b>Portfolio:</b> Coming soon  
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Location-India-22c55e?style=for-the-badge&labelColor=0f172a" />
+<img src="https://img.shields.io/badge/Status-Working%20on%20myself-3b82f6?style=for-the-badge&labelColor=0f172a" />
+
+</div>
+
+---
+
+<!-- ======================================================= -->
+<!--                      🌊 FOOTER WAVE                     -->
+<!-- ======================================================= -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:22c55e,50:0f172a,100:020617" width="100%" />
