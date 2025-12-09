@@ -66,18 +66,17 @@ I am <b>Om Mehta</b>, a cybersecurity student obsessed with the
 <!--                🟩 HACKER MATRIX TERMINAL                -->
 <!-- ======================================================= -->
 
-Initializing Om.Mehta...
+##Initializing Om.Mehta...
 
-Loading modules: web_exploitation, red_teaming, recon, automation...
+##Loading modules: web_exploitation, red_teaming, recon, automation...
 
-status: ACTIVE
-privilege: USER → ROOT (pending)
-skillset: evolving
-mode: LEARN | BREAK | IMPROVE | REPEAT
+##status: ACTIVE
+##privilege: USER → ROOT (pending)
+##skillset: evolving
+##mode: LEARN | BREAK | IMPROVE | REPEAT
 
-System motto: "Exploit yourself before the world does."
+##System motto: "Exploit yourself before the world does."
 
-✔ Rendering as a black terminal block.
 </pre>
 
 </div>
