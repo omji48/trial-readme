@@ -73,30 +73,31 @@ System motto: "Exploit yourself before the world does."
 <!-- ======================================================= -->
 
 <div align="center">
-
+  
 <img src="https://img.shields.io/badge/Skills-Activated-ff00ff?style=for-the-badge&labelColor=000000" />
 
 <br><br>
 
 <table>
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" /><br><b>Python</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" /><br><b>Linux</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=burpsuite" /><br><b>Burp Suite</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" /><br><b>JavaScript</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=python" width="60"/><br><b>Python</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="60"/><br><b>Linux</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=burpsuite" width="60"/><br><b>Burp Suite</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="60"/><br><b>JavaScript</b></td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" /><br><b>React</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" /><br><b>Next.js</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" /><br><b>Git</b></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" /><br><b>VS Code</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="60"/><br><b>React</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="60"/><br><b>Next.js</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="60"/><br><b>Git</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="60"/><br><b>VS Code</b></td>
 </tr>
 </table>
 
 </div>
 
 ---
+
 <!-- ======================================================= -->
 <!--                ⚪ APPLE-STYLE MINIMAL SECTION            -->
 <!-- ======================================================= -->
