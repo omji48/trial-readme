@@ -47,6 +47,9 @@ I am <b>Om Mehta</b>, a cybersecurity student obsessed with the
 </div>
 
 ---
+<div style="background-color:#000000; color:#00ff00; padding:20px; font-family:monospace; border-radius:8px;">
+
+<pre>
 <!-- ======================================================= -->
 <!--                🟩 HACKER MATRIX TERMINAL                -->
 <!-- ======================================================= -->
@@ -62,7 +65,9 @@ mode: LEARN | BREAK | IMPROVE | REPEAT
 
 System motto: "Exploit yourself before the world does."
 
----
+</pre>
+
+</div>
 <!-- ======================================================= -->
 <!--                🟦 NEON CYBERPUNK SKILL CARDS            -->
 <!-- ======================================================= -->
